@@ -1,5 +1,5 @@
 # Teste Apponte - Front-End Pleno
-Desenvolver uma aplicação HTML5
+Desenvolver uma aplicação com Angular
 
 ## Instruções
 - Siga as especificações abaixo.
